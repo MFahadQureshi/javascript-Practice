@@ -27,6 +27,8 @@ var book = 'I am trying to learn js from book "A smarter way to learn JavaScript
 alert(book)
 
 // Q=8
+var q8 = "I can write HTML content through JavaScript"
+document.write(q8)
 
 // Q=9
 var design = '“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”'
