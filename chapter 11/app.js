@@ -42,7 +42,9 @@ var b = 1;
 
 // Q=6
 // Write a loop to find and print the sum of digits of a number (let's say 123).
-
+for(var i = 0; i <= 10; i++){
+  console.log(i % 123);
+}
 // Q=7
 // Write a loop to print the multiplication table of a number (let's say 7) up to 10.
 for (var i = 1; i <= 10; i++) {
